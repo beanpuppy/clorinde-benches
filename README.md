@@ -1,5 +1,7 @@
 # clorinde-benches
 
+<a href="https://beanpuppy.github.io/clorinde-benches/">beanpuppy.github.io/clorinde-benches/</a>
+
 Benchmarking results for [Clorinde](https://github.com/halcyonnouveau/clorinde).
 
 ### System
